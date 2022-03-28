@@ -1,0 +1,1 @@
+For large file Genome database files (like fasta, gff3...and so on.)
