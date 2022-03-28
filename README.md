@@ -1,4 +1,4 @@
-# igvShiny_Test_App
+# igvShiny_TestApp
 
 Test App for igvShiny custom genome test.
 and for issue discussion.
