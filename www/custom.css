@@ -1,0 +1,33 @@
+@media (min-width: 768px) {
+      .modal-lg {
+        width: 90%;
+       max-width:1500px;
+      }
+    }
+
+.popover {
+    z-index: 1020; 
+}
+
+.navbar-gray-dark {
+    background-color: #0C2B2B;         
+      }
+.navbar-white {
+    background-color: #669999; 
+}
+
+.controlbar-gray-dark {
+    background-color: #0C2B2B;         
+      }
+.controlbar-white {
+    background-color: #669999; 
+}
+
+.description-block>.description-text {
+text-transform: none;
+text-align: left
+}
+
+.description-block>.description-header {
+text-align: left
+}
